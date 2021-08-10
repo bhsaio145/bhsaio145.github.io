@@ -14,7 +14,7 @@ h1 {
   margin-right: auto;
 }
 .topnav{
-  background-color: #ffffff;
+  background-color: #000000;
   overflow: hidden;
 }
 .topnav a {
@@ -27,9 +27,9 @@ h1 {
 }
 .topnav a:hover {
   background-color: #ddd;
-  color: #363636;
+  color: #000000;
 }
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #de9000;
   color: #ffffff;
 }
