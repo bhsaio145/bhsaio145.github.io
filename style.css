@@ -36,13 +36,3 @@ h1 {
   background-color: #de9000;
   color: #ffffff;
 }
-.column {
-  float: left;
-  width: 20%;
-  padding: 5px;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
